@@ -1,5 +1,8 @@
 DemoApp
 
+Note : Click on viewcode to see the project details
+
+=> run npm i from the root folder to setup project in your machine
 
 1.Used GIPY api to get gif and stickers data.
 
